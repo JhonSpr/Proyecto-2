@@ -1,0 +1,23 @@
+#caursel-1{
+    background-image: url('imagenes-proyecto/2pac.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#caursel-2{
+    width: 400px;
+    background-image: url('imagenes-proyecto/joji.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#caursel-3{
+    width: 400px;
+    background-image: url('imagenes-proyecto/trippie-redd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#caursel-4{
+    width: 400px;
+    background-image: url('imagenes-proyecto/imagine-dragons.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

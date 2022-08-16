@@ -1,0 +1,38 @@
+.card-title{
+    background-color: rgba(0,0,0,0.8);
+    width: 80%;
+    margin-left: 30px;
+    padding: 5px 0;
+    border-radius: 10px;
+}
+.card-generos{
+    border-radius: 10px;
+}
+
+.card-generos:hover{
+    opacity: 0.9;
+}
+
+#rap-latino{
+    background-color: rgb(100,140,0);
+}
+
+#gansta-rap{
+    background-color: rgb(159, 7, 7);
+}
+
+#pop{
+    background-color: rgb(50,50,100);
+}
+
+#rock{
+    background-color: rgb(120,100,120);
+}
+
+#rap-americano{
+    background-color: rgb(500,110,90);
+}
+
+#hip-hopp{
+    background-color: rgb(200,200,2);
+}
